@@ -2,5 +2,5 @@ package com.test.test;
 
 public class SubinTest {
 
-	//어쩔티비
+	//쏼라쏼라
 }
